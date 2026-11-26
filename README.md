@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Game-Networking-Player-Movement-Engines"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Game-Networking-Player-Movement-Engines?style=social" alt="GitHub stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Game-Networking-Player-Movement-Engines"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Game-Networking-Player-Movement-Engines?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Game-Networking-Player-Movement-Engines/fork"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Game-Networking-Player-Movement-Engines?style=social" alt="GitHub forks" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 </p>
@@ -72,9 +72,9 @@ Below is the structured breakdown of commercial multiplayer backend platforms an
 
 Explore the leading open-source player movement libraries, client-side prediction frameworks, deterministic rollback engines, reliable UDP transports, and dedicated server orchestrators.
 
-*Sorted in descending order by GitHub Star count.*
+*Sorted in descending order by GitHub Stars_Count.*
 
-| Repository | GitHub Stars Badge | Primary Focus / Technology Stack | Key Architectural Features | License |
+| Repository | GitHub_Stars_Badge | Primary Focus / Technology Stack | Key Architectural Features | License |
 | :--- | :--- | :--- | :--- | :--- |
 | 🤖 **[Godot Engine](https://github.com/godotengine/godot)** | [![Stars](https://img.shields.io/github/stars/godotengine/godot?style=social&color=white)](https://github.com/godotengine/godot/stargazers) | General-purpose 2D/3D Game Engine (C++ / GDScript) | Built-in High-Level Multiplayer API (`MultiplayerAPI`), `MultiplayerSynchronizer`, `MultiplayerSpawner`, reliable UDP ENet and WebRTC/WebSocket support. | MIT |
 | 🌌 **[SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB)** | [![Stars](https://img.shields.io/github/stars/clockworklabs/SpacetimeDB?style=social&color=white)](https://github.com/clockworklabs/SpacetimeDB/stargazers) | Relational Database & Multiplayer Game Server in One (Rust) | Upload entire game simulation logic directly into the database; real-time client state subscriptions via client-side code generation; eliminates separate ORM and netcode layers. | BSL / Open Source |
@@ -109,7 +109,7 @@ Contributions, bug reports, and updates are warmly welcomed! 🤝
 1. 🍴 **Fork the repository** to your personal GitHub account.
 2. 🌿 **Create a new feature branch** (`git checkout -b feature/add-new-netcode-engine`).
 3. 📝 **Add your entry** under the appropriate SaaS or Open-Source category:
-   - Ensure open-source projects include official GitHub star counts and links.
+   - Ensure open-source projects include official GitHub Stars_Counts and links.
    - For SaaS products, verify specific pricing tiers and free tier / trial parameters.
 4. ✅ **Ensure markdown formatting passes lint checks**.
 5. 🚀 **Submit a Pull Request** with a descriptive summary of your additions.
